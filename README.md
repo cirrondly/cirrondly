@@ -1,41 +1,66 @@
-# Welcome to Cirrondly Profile! 👋
+# 👋 Welcome to Cirrondly
 
-## About Me
+Cirrondly is an AI-powered cloud cost & usage intelligence platform.
+We help teams understand *what is happening* in their cloud, in real time, and *why it matters*.
 
-This is the Cirrondly repository, a revolutionary app designed to simplify cloud management across multiple providers. With a passion for streamlining complex systems, dedicated to making cloud operations more accessible and efficient for teams of all sizes.
+---
 
-## 🚀 Cirrondly: Your All-in-One Cloud Management Solution
+## 🚀 What is Cirrondly?
 
-Cirrondly is an innovative application that connects all major cloud providers under a single, user-friendly interface. Our mission is to simplify cloud management and enhance team collaboration.
+Modern cloud systems generate massive amounts of usage, cost, and activity signals.
+Cirrondly turns those raw signals into **clear insights**, **anomaly detection**, and **business impact visibility**.
 
-### Key Features:
+Instead of dashboards full of metrics,
+Cirrondly answers questions like:
 
-- **Unified S3 Management**: Easily manage your S3 buckets across different cloud providers.
-- **Serverless App Logging**: Centralized logging for all your serverless applications.
-- **Team Management**: Streamline access control with a single set of credentials for your entire team.
-- **Multi-Cloud Integration**: Seamlessly connect and manage resources from various cloud providers.
+- Why did my cloud costs spike *right now*?
+- Which feature, user action, or deployment caused it?
+- What is the real usage behind my infrastructure?
+- What will this cost if traffic doubles?
 
-### Why Cirrondly?
+---
 
-- 🔄 **Simplicity**: One interface for all your cloud needs.
-- 🔐 **Security**: Enhanced access control with consolidated credentials.
-- 📊 **Visibility**: Comprehensive overview of your cloud resources and operations.
-- ⏱️ **Efficiency**: Save time and reduce complexity in your cloud management workflows.
+## 🧠 Core Focus
 
-## 🌱 Current Focus
+- 🔍 **Real-time cost & usage signals**
+- ⚠️ **AI-driven anomaly detection**
+- 🔗 **Usage → infrastructure → cost correlation**
+- 📈 **Cloud cost forecasting & growth simulation**
+- ☁️ **Designed for modern cloud & AI workloads**
 
-Currently working on expanding Cirrondly's capabilities and integrating more cloud services. The goal is to create the most comprehensive and user-friendly cloud management tool in the market.
+Cirrondly is built for **startups, scaleups, and product teams** who want clarity, not spreadsheets.
 
-## 💡 Get Involved
+---
 
-- Interested in cloud management solutions? Check out Cirrondly!
-- Have ideas or feedback? I'd love to hear from you!
-- Looking to collaborate on cloud-related projects? Let's connect!
+## 🏗️ Project Status
 
-## 📫 How to Reach Me
+Cirrondly is currently **under active development**.
+We are building the foundations of a next-generation FinOps & observability platform.
 
-- LinkedIn (Comming soon)
-- [Twitter](https://x.com/cirrondly)
-- [Email](mailto:contact@cirrondly.com)
+This GitHub organization hosts:
+- core services
+- SDKs
+- experiments
+- infrastructure tooling
 
-Thank you for visiting our profile. Let's revolutionize cloud management together with Cirrondly!
+Some repositories may be **private or in early stages**.
+
+---
+
+## 🌱 Built in Public
+
+Cirrondly is built openly, iteratively, and pragmatically.
+Feedback, ideas, and discussions are always welcome.
+
+---
+
+## 📫 Contact & Links
+
+🌐 Website: https://www.cirrondly.com  
+🐦 X / Twitter: https://x.com/CirrondlyLog  
+📧 Email: contact@cirrondly.com  
+
+---
+
+Cloud costs are a *signal*.
+Cirrondly helps you understand them.
